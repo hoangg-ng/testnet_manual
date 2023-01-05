@@ -13,3 +13,4 @@
 |HumanAI  |[Link](https://github.com/hoangg-ng/testnet_manual/tree/main/Humanai) |
 |Starknet |[Link](https://github.com/hoangg-ng/testnet_manual/tree/main/Starknet)|
 |Ironfish |[Link](https://github.com/hoangg-ng/testnet_manual/tree/main/Ironfish)|
+|Lava     |[Link](https://github.com/hoangg-ng/testnet_manual/tree/main/Lava)    |
